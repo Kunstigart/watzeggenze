@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Wat zeggen ze?",
+    "currentPage": "Wat zeggen ze",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1117,7 +1117,7 @@
         }
       ]
     },
-    "Wat zeggen ze?": {
+    "Wat zeggen ze": {
       "settings": {
         "title": "Wat zegt men over Atelier Kunstig Art?",
         "meta_descr": "Wat zegt men over Atelier Kunstig Art? Referenties hoe het schilderen wordt ervaren bij Atelier Kunstig Art",
