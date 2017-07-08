@@ -1764,7 +1764,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/gratis-2-eboeks-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gratis-2-eboeks-1-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1782,7 +1782,7 @@
               "size": 0
             }
           },
-          "title": "Heb jij deze gratis <br>e-books al?",
+          "title": "Heb jij deze gratis <br>e-boeken al?",
           "text": "Misschien heb je deze twee boeken nog niet. &nbsp;Dan kun je ze hier gratis downloaden",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\" http://www.kunstigart.nl/aanmelden-voor-downloads/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOADEN</a>"
         },
