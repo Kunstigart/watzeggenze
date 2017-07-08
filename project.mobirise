@@ -110,12 +110,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://www.kunstigart.nl/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -241,7 +241,7 @@
           },
           "title": "Heb je thuis ook zo weinig ruimte om &nbsp;zelf te schilderen?",
           "text": "Het is voor velen heel moeilijk om een eigen atelier ruimte thuis te creëren. &nbsp;Een hele kamer alleen voor je hobby is niet voor veel mensen weggelegd. In een hoekje van de woonkamer een plekje maken voor je ezel is ook niet altijd een gegarandeerd succes. Zeker als je je een beetje enthousiast uit wilt leven. Verf op de bank krijgen is niet echt een optie, laat staan spetters op de TV (ach is dan echt een kleuren TV!), maar dan hebben we het nog geeneens over de vloer gehad!<br> <br>Dan maar je beeldscherm en spullen op je bureau naar achteren schuiven, een kleed eroverheen gooien en dan maar schilderen. <br>Is dit echt een fijne oplossing voor je?<br>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
         },
         {
           "_tags": [
@@ -302,7 +302,7 @@
           },
           "title": "Zo kan het ook!",
           "text": "Bij Atelier Kunstig Art staat je doek op jou te wachten als je komt schilderen. Geen gesjouw met materiaal en een ruime keuze uit verschillende maten linnen doeken. We gaan wel voor goede kwaliteit, want laten we nou eerlijk zijn, je gaat ook geen gaatje boren met een verroest boortje, dan neem je een scherp boortje, toch?&nbsp;<br><br>Dat geldt zeker voor de kwaliteit van je verf en doeken. Hoeveel mensen denken dat ze niet kunnen schilderen omdat ze, helaas, heel goedkoop materiaal hebben gekocht en de verf mengt niet fijn, of dekt niet goed. De kans is groot dat het aan je materiaal ligt en niet aan jouw schildersvaardigheden.&nbsp;<br><br>En hoe kom je daar nou achter?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
         },
         {
           "_tags": [
@@ -363,7 +363,7 @@
           },
           "title": "Door zelf te ervaren hoe het is om bij <br>Atelier Kunstig &nbsp;Art<br>&nbsp;te schilderen.",
           "text": "Voor je zover bent wil je misschien eerst meer weten over intuïtief schilderen en wat dat voor jou kan betekenen. <br><br>Speciaal voor jou heeft Sylvia te Braake een gratis e-boek gemaakt.&nbsp;<br>\"8 redenen waarom &nbsp;intuïtief schilderen goed is voor jou.\" <br>Hieronder kom je de informatie tegen hoe je het kunt downloaden. <br><br>Intuïtief schilderen is heel bijzonder en is de core business van Atelier Kunstig Art. Ondanks dat zijn er ook mensen die het heerlijk vinden om hun favoriete plaatje na te schilderen. Dat kan ook. Dat zie je hiernaast. Het gaat vooral om dat jij je creatief kan uiten en geniet van wat je aan het maken bent. Jij zal het toch maken met jouw kleuren en op jouw manier.<br> <br>We gaan voor <b>vrijheid blijheid!</b><br><b>Jij kiest wat jij fijn vindt om te maken en hoe je het wilt doen!<br></b> &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
         },
         {
           "_styles": {
@@ -491,7 +491,7 @@
           },
           "title": "Omdat intuïtief schilderen meer is dan alleen schilderen!&nbsp;",
           "text": "Soms is het moeilijk om te vatten wat intuïtief schilderen precies is. Dat is echt niet raar, want het is bijna niet uit te leggen. Dit is iets wat je zelf \"moet\" ervaren. Vandaar dat Sylvia te Braake een aantal belangrijke aspecten heeft opgeschreven en zo goed als mogelijk geprobeerd heeft de processen te beschrijven. Natuurlijk kan het voor iedereen een ander proces zijn, maar dit is wel een goede leidraad. <br><br> Druk nu op de Download-knop voor het gratis e-boek<br>\"8 redenen waarom intuïtief schilderen goed is voor jou!\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
         },
         {
           "_tags": [
@@ -518,7 +518,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "width": 128,
               "active": true,
               "link": "http://www.kunstigart.nl/",
@@ -621,12 +621,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://www.kunstigart.nl/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -752,7 +752,7 @@
           },
           "title": "Hoe ziet intuïtief schilderen eruit in de praktijk?",
           "text": "Het beste is dit toe te lichten aan de hand van een paar verhalen. Uiteraard ervaart iedereen het schilderproces verschillend en dat is waarom het zo boeiend is. Zowel de beleving als het eindresultaat van de schilderijen is anders. <br>Nog nooit zijn er twee dezelfde schilderijen gemaakt. Hopelijk komt er ooit op een dag een eeneiige tweeling schilderen en kunnen we zien of zij bijna hetzelfde maken. De kans is klein want hun eigen identiteit, gevoel en intuïtie spelen een belangrijke rol.<br><br>Het eerste verhaal gaat over Margriet. Een vrouw die al behoorlijk creatief is en al schilderde maar nog niet volgens de intuïtieve methode van Atelier Kunstig Art.&nbsp;<br>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
         },
         {
           "_tags": [
@@ -813,7 +813,7 @@
           },
           "title": "Grenzen stellen",
           "text": "In het voorjaar van 2016 kwam Margriet een proefworkshop bij mij (Sylvia te Braake van Atelier Kunstig Art) doen. Zij was nieuwsgierig naar mijn methode van intuïtief schilderen. Thuis kwam er niet veel van, want ze heeft niet echt de ruimte om aan een groot doek te werken.<br><br><b>Een nieuw begin</b><br>Het ging haar gemakkelijk af om heerlijk te spelen. Een kloddertje hier, een kloddertje daar. Aan het eind van de ochtend ging ze benoemen wat ze zag. Een grote bloem met een stengel die naar een kleine bloem ging. In de kleine bloem was een foetus te zien. Ze voelde dat het stond voor een nieuw begin, al was dat nieuwe begin nog niet helder wat dat precies was.<br><br><b>Grens stellen</b><br>Ze besloot om gelijk te starten met de wekelijkse cursus. De week erop gingen we verder kijken wat ze met haar schilderij kon gaan doen. In het grote bloem was een kern die ze graag wilde behouden. Ik stelde voor dat ze er een lijn omheen zou zetten. “Een grens stellen?!” kwam met enige paniek bij Margriet eruit.<br><br>Het idee dat ze nu zelf een grens moest stellen vond ze heel moeilijk. Maar als iemand anders een grens stelt voor haar vindt ze dat ook niet fijn. Dit was duidelijk een heftige thema voor haar. Ik vroeg of er soms een kleur was die het voor haar veilig zou maken om een grens te stellen. Dat wist ze niet maar ze ging aan de slag. Uiteindelijk bleek dat een heel zachtroze kleur prima was om dat te doen. Ze was erg aangenaam verrast dat het haar goed afging. Zo ontstond er ruimte om verder te gaan.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
         },
         {
           "_tags": [
@@ -874,7 +874,7 @@
           },
           "title": "Opruimen",
           "text": "<br>Gedurende de volgende paar weken is ze erg bezig geweest met dit schilderij. Het werd steeds rustiger, opgeruimder, overzichtelijker en ze raakte er steeds enthousiaster over. In de dagen na het schilderen gebeurde er ook veel met Margriet. Oude herinneringen kwamen boven. Niet altijd fijne herinneringen, kennelijk was het tijd om daar aandacht aan te besteden. Deze thema’s kwamen ook voorbij tijdens het schilderen. Er was duidelijk veel gaande bij haar. Al was het soms heftig ze voelde dat het haar goeddeed en daarom ging ze door.<br><br><b>In je eigen kracht staan</b><br>Margriet kon heel goed verwoorden wat er bij haar gebeurde en wat het schilderij bij haar opriep. Dat maakte het voor mij ook makkelijk om haar te helpen. Zodra het mogelijk is om je gevoel te benoemen van wat gaande is, hoe makkelijker het is om te beslissen wat er op je doek moet gebeuren. Dan heb je zelf de macht over je doek. Je staat in je eigen kracht en uiteindelijk merk je dat ook in je eigen leven. Je hebt natuurlijk wel een beetje lef nodig om te schilderen, om dingen te veranderen, terwijl je eigenlijk niet weet wat je ermee moet doen. Zo is het ook in het leven en daarom helpt intuïtief schilderen met deze stappen.<br><br><b>Een blind vertrouwen hebben dat intuïtie heet!</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
         },
         {
           "_styles": {
@@ -1084,7 +1084,7 @@
           },
           "title": "\"Een reis door grijs!\"",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Misschien wil je mijn verhaal lezen. Jawel, ik heb mijn best gedaan om regelmatig foto’s te maken tijdens het schilderen van een schilderij in grijze tinten. Voor je het verhaal gaat lezen, wil ik een tipje van de sluier oplichten.</span><br> <br>Ik schilder <b>NOOIT</b> in grijze tinten. Ik ben een mens die van kleur houd. Mooi vrolijke kleuren, die eruit mogen knallen, zeg maar. Dus grijs is zoiets als tegen mijn eigen flow in gaan, maar ja, het moet toch kunnen. Zo moeilijk kan het toch niet zijn!!?? Er zijn dingen die je nu eenmaal een keer moet uitproberen om zeker te weten of je het kan of niet, toch?<br> <br>Met zo'n soort gevoel ben ik begonnen aan mijn “Een reis door grijs” en ook omdat het tegenwoordig zo modern is om veel grijs in huis te hebben, dacht ik, laat ik met de trend meegaan!<br>&nbsp;&nbsp;<br>Veel plezier met het gratis e-boek \"Een reis door grijs!\" . <br><br>Druk nu op de Download-knop voor het gratis e-boek.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
         },
         {
           "_tags": [
@@ -1111,7 +1111,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "width": 128,
               "active": true,
               "link": "http://www.kunstigart.nl/",
@@ -1214,12 +1214,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://www.kunstigart.nl/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1811,7 +1811,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-128x72.jpg",
               "width": 128,
               "active": true,
               "link": "http://www.kunstigart.nl/",
@@ -2068,7 +2068,7 @@
           },
           "title": "Als eerste,&nbsp;<br>wie zit achter&nbsp;<br>Atelier Kunstig Art?",
           "text": "Atelier Kunstig Art is in 2004 opgericht door Sylvia te Braake. Zij wilde graag het plezier van intuïtief schilderen delen met anderen. Door een andere benadering te kiezen ontdekte ze dat het ook erg heilzaam voor je kon zijn. Met heel veel passie is zij begonnen met haar atelier. Gelukkig wist zij toen nog niet wat er allemaal zou gebeuren in de daaropvolgende jaren.<br><br>Voor we verder gaan met wat het atelier jou kan bieden , is het misschien fijn om te weten wie Sylvia is. Klik op onderstaande button om haar verhaal te lezen. <br><br>Zij volgt haar hart en blijft dat doen, niets weerhoudt haar om haar droom te verwezenlijken.&nbsp;<br><br><i><b>\"Het leven is een groot feest<br>maar je zal zelf de slingers op moeten hangen!\"&nbsp;</b></i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
         },
         {
           "_tags": [
@@ -2103,7 +2103,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2129,7 +2129,7 @@
           },
           "title": "Particulieren<br><br>",
           "text": "Voor ieders wat wils!<br>Tenminste dat wensen wij te bereiken. Vanuit het intuïtief schilderen hebben we wekelijks cursus en regelmatig een losse middag workshop op de zaterdag. Ook een proef workshop is mogelijk. In de zomerperiode kun je bij ons ook terecht.<br><br>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
         },
         {
           "_tags": [
@@ -2190,7 +2190,7 @@
           },
           "title": "<br>Zakelijk",
           "text": "Voor het bedrijfsleven hebben we diverse mogelijkheden. <br>Een teambuilding op creatief niveau, waar je de diepte in gaat en de verborgen oorzaken naar boven kunt halen. Zo iets heb jij nog nooit zo meegemaakt. <br>Hier wordt het zichtbaar hoe iedereen met elkaar samenwerkt <br>of juist niet.<br>Een doek liegt niet!<br><br>Wij helpen jouw bedrijf om je personeel geestelijk fit en in een creatieve flow te houden door ze te prikkelen om \"out of the box\" te denken.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
         },
         {
           "_styles": {
@@ -2293,7 +2293,7 @@
           "title1": "Proefworkshop",
           "subtitle1": "",
           "caption1": "Tijdens de wekelijkse cursus in de periode september t/m juni is het mogelijk om een proefworkshop te komen volgen.<br>Dan proef je letterlijk de sfeer in de groep en kun je ervaren wat het is om intuïtief te schilderen.<br>Het is wel zo, dat dit een momentopname is en alles valt of staat met hoe je op dat moment in je vel zit.&nbsp;<br>Wil je jezelf een eerlijke gelegenheid geven om intuïtief te schilderen dan is de \"Wekelijkse date met je ezel!\" een betere optie.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/proefworkshop/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">proefworkshop</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/proefworkshop/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">proefworkshop</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-strippenkaart-600x848.jpg",
@@ -2309,7 +2309,7 @@
           "title2": "\"Wekelijkse date met je ezel!\"",
           "subtitle2": "",
           "caption2": "Alles is te leren! En dat is waar, zeker als je het echt graag wilt. Dat zien we elke week in het atelier, wat voor een sprongen er gemaakt worden.<br>Geef jezelf de kans om het te leren in je eigen tempo. Dit is van enorm belang omdat het frustrerend kan werken als je je spiegelt aan anderen.&nbsp;<br>Hier leer je op speelse manier jezelf te uiten. Waar bij veel cursussen de nadruk ligt op het eind resultaat is dat hier heel anders.&nbsp;<br>Wij hebben geen enkel idee wat we gaan maken. Alles is goed wat er ontstaat. Wat je niet mooi vindt, ruim je op en zo ontstaat vanzelf jouw unieke schilderij. Dit had jij van tevoren nooit kunnen bedenken.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/wekelijks-workshop/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">wekelijkse date</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/wekelijks-workshop/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">wekelijkse date</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zomeractie-atelier-kunstig-art-600x425.jpg",
@@ -2325,7 +2325,7 @@
           "title3": "Strippenkaart",
           "subtitle3": "",
           "caption3": "&nbsp;Heel veel mensen hebben het enorm druk. Er zijn zoveel leuke dingen om te doen en dan nog je werk, gezin en al het andere.<br>Met ons systeem van de 9 strippenkaart betekent het dat je zelf bepaal wanneer en hoe vaak je wilt komen schilderen. Je kunt één keer in de week komen of om de week. Net hoe jouw agenda jou de ruimte geeft om een paar uur voor jezelf te mogen hebben.<br>De strippenkaart is een heel jaar geldig waardoor je veel vrijheid hebt.<br>Klik op de button om alle voorwaarden te lezen en wees snel, want nu is er nog een actie:<br>9 keer komen schilderen en 8 keer betalen!<br><br>Pak die zomerkorting!",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/strippenkaart/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">strippenkaart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/strippenkaart/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">strippenkaart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zomerworkshops-600x425.jpg",
@@ -2341,7 +2341,7 @@
           "title4": "Zomerworkshops",
           "subtitle4": "",
           "caption4": "Vanaf 3 juli starten de zomerworkshops. In de maand juli is het mogelijk om te kiezen uit 5 dagdelen. Je kunt 1 dagdeel mee doen of je kunt een paar keer achter elkaar komen. JIJ bepaalt hoe vaak je wilt komen.<br>In augustus is het atelier op elke woensdagochten en avond.<br>Voor velen is het erg fijn dat er nog cursussen zijn in de zomer aangezien veel verenigingen dan dicht zijn.<br>Je kunt ook met de strippenkaart komen tijdens de zomerworkshops. Wat je dan nog niet gebruikt heb kun je in de rest van het jaar opmaken.<br>Kom genieten en ervaren wat intuïtief schilderen met je doet en wat het voor jou kan opleveren.",
-          "button4": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/zomerworkshops/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zomerworkshop</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/zomerworkshops/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zomerworkshop</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2439,7 +2439,7 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "<p><b>Teambuilding</b></p><p>Voor de kickoff van een nieuw project of begin van het boekjaar of juist om de teamspirit te verhogen &nbsp; kun je de schildersessie inzetten om een aantal doelstellingen te bereiken waarbij de creativiteit van het personeel gestimuleerd wordt.</p><p>Je kunt kiezen uit:&nbsp;<br><span style=\"font-size: 1.125rem; line-height: 2;\">– het gezamenlijk maken van één groot schilderij<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– in groepjes werken aan verschillende schilderijen&nbsp;<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– ieder een eigen schilderij.</span></p><p><i>Er zijn volop mogelijkheden zoals de teambuilding houden in jouw eigen bedrijf!</i></p><p><a href=\"http://www.kunstigart.nl/teambuilding/\" target=\"_blank\">lees meer</a></p>",
+              "text": "<p><b>Teambuilding</b></p><p>Voor de kickoff van een nieuw project of begin van het boekjaar of juist om de teamspirit te verhogen &nbsp; kun je de schildersessie inzetten om een aantal doelstellingen te bereiken waarbij de creativiteit van het personeel gestimuleerd wordt.</p><p>Je kunt kiezen uit:&nbsp;<br><span style=\"font-size: 1.125rem; line-height: 2;\">– het gezamenlijk maken van één groot schilderij<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– in groepjes werken aan verschillende schilderijen&nbsp;<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– ieder een eigen schilderij.</span></p><p><i>Er zijn volop mogelijkheden zoals de teambuilding houden in jouw eigen bedrijf!</i></p><p><a href=\"http://www.kunstigart.nl/teambuilding/\" target=\"_blank\" class=\"text-info\">lees meer</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -2453,7 +2453,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p><b>Actieve creativiteit</b></p><p><b>Hoe hou je je personeel fit?</b></p><div><span style=\"font-size: 1.125rem; line-height: 2;\">Ziekte uitval is een groot probleem voor bedrijven. De focus houden op hoe je,&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp;jouw personeel gezond houdt is effectieve op de lange termijn. <br>Dit kun je doen door ze te stimuleren om een ontspannende hobby te hebben. Je kunt ze een korting geven op een strippenkaart om&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">i</span><span style=\"font-size: 1.125rem; line-height: 2;\">ntuïtief te komen schilderen want dit is &nbsp;zeker een goede optie voor de ontspanning en tegelijkertijd komen ze meer in contact met zichzelf en zijn ze een paar uur uit het hoofd! Daardoor voelen mensen sneller of ze te gestrest zijn of oververmoeid. Zij leren ook door het schilderen om zelf beter grenzen te stellen aan zichzelf waardoor ze eerder aan de bel trekken op hun werk voor het te laat is.&nbsp;</span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><i>PS. Denk wel als ondernemer aan jouw eigen ontspanning en rust. <br>Jij bent de sleutel figuur in JOUW bedrijf!</i></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><br></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><a href=\"http://www.kunstigart.nl/actieve-creativiteit/\" target=\"_blank\">Lees meer</a></span></div>",
+              "text": "<p><b>Actieve creativiteit</b></p><p><b>Hoe hou je je personeel fit?</b></p><div><span style=\"font-size: 1.125rem; line-height: 2;\">Ziekte uitval is een groot probleem voor bedrijven. De focus houden op hoe je,&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp;jouw personeel gezond houdt is effectieve op de lange termijn. <br>Dit kun je doen door ze te stimuleren om een ontspannende hobby te hebben. Je kunt ze een korting geven op een strippenkaart om&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">i</span><span style=\"font-size: 1.125rem; line-height: 2;\">ntuïtief te komen schilderen want dit is &nbsp;zeker een goede optie voor de ontspanning en tegelijkertijd komen ze meer in contact met zichzelf en zijn ze een paar uur uit het hoofd! Daardoor voelen mensen sneller of ze te gestrest zijn of oververmoeid. Zij leren ook door het schilderen om zelf beter grenzen te stellen aan zichzelf waardoor ze eerder aan de bel trekken op hun werk voor het te laat is.&nbsp;</span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><i>PS. Denk wel als ondernemer aan jouw eigen ontspanning en rust. <br>Jij bent de sleutel figuur in JOUW bedrijf!</i></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><br></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><a href=\"http://www.kunstigart.nl/actieve-creativiteit/\" target=\"_blank\" class=\"text-info\">Lees meer</a></span></div>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -2585,7 +2585,7 @@
           },
           "title": "Speciale zomeractie!",
           "text": "Zoals je hebt kunnen lezen, werken wij met een strippenkaart. Je kunt dan 9 keer komen schilderen en de kaart is een hele jaar geldig. Jij bepaalt hoe regelmatig je wilt komen schilderen. Ideaal voor wie in wisselende diensten zit en zeker voor ondernemers die de ene week het heel druk hebben en dan de volgende week meer ruimte hebben voor zichzelf.<br><br>Gun jezelf de kans om echt te ervaren wat intuïtief schilderen voor je &nbsp;kan doen.&nbsp;<br><br><b><i>Wees wel gewaarschuwd, verslavingsgevaar!</i></b><br>Heb je eenmaal de intuïtief schilder virus te pakken! <br>Dan ben je verkocht en kom je er nooit meer vanaf. <br>Al jaren komen mensen wekelijks schilderen om hun \"shot\" te krijgen!&nbsp;<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/strippenkaart/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Strippenkaart actie</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.kunstigart.nl/strippenkaart/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Strippenkaart actie</a>"
         },
         {
           "_tags": [
