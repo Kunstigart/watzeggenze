@@ -534,7 +534,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+          "text3": "Social Media<br><br><a href=\"https://www.facebook.com/kunstigart/\" target=\"_blank\">Facebook</a><br><a href=\"https://www.linkedin.com/in/sylvia-te-braake-6bb6b824/\" target=\"_blank\">LinkedIn</a>"
         }
       ]
     },
@@ -1127,7 +1127,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+          "text3": "Social Media<br><br><a href=\"https://www.facebook.com/kunstigart/\" target=\"_blank\">Facebook</a><br><a href=\"https://www.linkedin.com/in/sylvia-te-braake-6bb6b824/\" target=\"_blank\">LinkedIn</a>"
         }
       ]
     },
@@ -1865,7 +1865,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+          "text3": "Social Media<br><br><a href=\"https://www.facebook.com/kunstigart/\" target=\"_blank\">Facebook</a><br><a href=\"https://www.linkedin.com/in/sylvia-te-braake-6bb6b824/\" target=\"_blank\">LinkedIn</a>"
         }
       ]
     },
@@ -2202,7 +2202,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2604,10 +2604,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/zomeractie-atelier-kunstig-art-600x425.jpg",
-              "link": "",
+              "link": "http://www.kunstigart.nl/strippenkaart/",
               "alt": "",
               "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2666,7 +2666,7 @@
           },
           "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
           "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
-          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+          "text3": "Social Media<br><br><a href=\"https://www.facebook.com/kunstigart/\" target=\"_blank\">Facebook</a><br><a href=\"https://www.linkedin.com/in/sylvia-te-braake-6bb6b824/\" target=\"_blank\">LinkedIn</a>"
         }
       ]
     }
