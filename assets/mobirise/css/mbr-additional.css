@@ -814,6 +814,10 @@ h6,
 #msg-box5-1k H3 {
   color: #2b0680;
 }
+#header3-2d .mbr-section-title,
+#header3-2d .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box5-1o H3 {
   color: #2b0680;
 }

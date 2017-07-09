@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1742,6 +1742,26 @@
           "title": "Verschillende mensen, verschillende stijlen.",
           "text": "We kunnen nu eindeloos door gaan met vertellen wat er allemaal gebeurt tijdens het schilderen bij ons en waarom het zo goed is voor jou!<br>In ons enthousiasme kunnen we soms doorslaan, dus nu stoppen we.<br> <br>Waarschijnlijk heb je nu een behoorlijk goed idee wat intuïtief schilderen is. Wil je meer weten over Sylvia te Braake? Gebruik dan de button om meer over haar te lezen.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
         },
         {
           "_tags": [
